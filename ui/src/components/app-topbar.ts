@@ -41,7 +41,7 @@ class AppTopbar extends OpenClawLightDomContentsElement {
           <!-- The Mac app used to float a native drag strip over this brand
                row; the web now asks the host to move the window itself. -->
           <div class="topnav-shell__content" @mousedown=${beginNativeWindowDrag}>
-            <div class="topbar-brand" aria-label="OpenClaw">
+            <div class="topbar-brand" aria-label="SENAIA-IA">
               <img
                 class="topbar-brand__logo"
                 src=${controlUiPublicAssetPath("apple-touch-icon.png", this.basePath)}

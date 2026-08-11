@@ -324,7 +324,7 @@ function renderLoginGate(props: LoginGateProps) {
     <div class="login-gate">
       <div class="login-gate__card">
         <div class="login-gate__header">
-          <img class="login-gate__logo" src=${faviconSrc} alt="OpenClaw" />
+          <img class="login-gate__logo" src=${faviconSrc} alt="SENAIA-IA" />
           <div class="login-gate__title">OpenClaw</div>
           <div class="login-gate__sub">${t("login.subtitle")}</div>
         </div>
